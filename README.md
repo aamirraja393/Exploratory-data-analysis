@@ -3,7 +3,7 @@
 This repository contains different forms of exploratory data analysis, which encompasses the following:
 
 - ✅ **Statistical Analysis**  
-- ✅ **Broad Range of Data Visualizations**  
+- ✅ **Broad Range of Data Visualisations**  
 - ✅ **Data Wrangling**  
 - ✅ **Data Cleansing**  
 - ✅ **Data Exploration**  
